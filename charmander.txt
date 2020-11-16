@@ -1,2 +1,3 @@
 flamethrower
-say hi 
+say hi
+and hello
